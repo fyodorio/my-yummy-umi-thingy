@@ -1,6 +1,7 @@
 {
-  "private": true,
-  "author": "fyodorio <alinetofyodor@gmail.com>",
+  "name": "my-yummy-umi-thingy",
+  "author": "fyodorio <ping@fyodor.io>",
+  "version": "0.1.0",
   "scripts": {
     "build": "max build",
     "dev": "max dev",
