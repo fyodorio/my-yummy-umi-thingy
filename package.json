@@ -1,7 +1,7 @@
 {
   "name": "my-yummy-umi-thingy",
-  "author": "fyodorio <ping@fyodor.io>",
   "version": "0.1.0",
+  "author": "fyodorio <ping@fyodor.io>",
   "scripts": {
     "build": "max build",
     "dev": "max dev",
